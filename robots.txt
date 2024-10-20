@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovewoelo.github.io/BLh/sitemap_index.txt.gz
+Sitemap: https://ovewoelo.github.io/WNa/sitemap_index.txt.gz
+Sitemap: https://ovewoelo.github.io/aAQ/sitemap_index.txt.gz
+Sitemap: https://ovewoelo.github.io/qdj/sitemap_index.txt.gz
+Sitemap: https://ovewoelo.github.io/vXA/sitemap_index.txt.gz
